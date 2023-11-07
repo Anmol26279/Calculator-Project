@@ -1,2 +1,7 @@
 # Calculator-Project
-This is Calculator Made by Anmol Makkar
+
+Made a calculator.
+By using :
+HTML,
+CSS,
+JavaScript.
